@@ -12,8 +12,9 @@
 
 Hardware:
   - LEDs: Red and Green
-  - Soil moisture sensors
-  - arduino
-  - Breadboard
+  - Soil moisture sensor
+  - Arduino Uno
+  - Breadboard 
+  - Hook up Wires
   
 Code:
