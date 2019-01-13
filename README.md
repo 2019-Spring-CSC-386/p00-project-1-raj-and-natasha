@@ -11,21 +11,25 @@ We all love plants, we all need plants, and in fact, studies have shown that hav
 
 ## Initial Design Plan
 
-Hardware:
-  - LEDs: Red and Green
-  - Soil moisture sensor
-  - Arduino Uno
-  - Breadboard 
-  - Wires
+**Hardware:**
+- LEDs: Red and Green
+- Soil moisture sensor
+- Arduino Uno
+- Breadboard 
+- Wires
   
-  Need: interaction of parts/diagram
+*Need: interaction of parts/diagram*
   
-Code:
+**Code:**
+- Declaration of variables
+- Loop
+
+*Need: specifics & screenshot*
 
 ## Files
 
-README (you are here): Documentation of our project.
-LICENSE: Licensing info.
+- README (you are here): Documentation of our project.
+- LICENSE: Licensing info.
 
 ## Summary
 
@@ -43,24 +47,24 @@ LICENSE: Licensing info.
 
 ### Ideation, Brainstorming, Design:
 
-*Natasha: *
+*Natasha:*
 
-*Tirtha: *
+*Tirtha:*
 
 ### Code creation: 
 
-*Natasha: *
+*Natasha:*
 
-*Tirtha: *
+*Tirtha:*
 
 ### Documentation creation:
 
-*Natasha: *
+*Natasha:*
 
-*Tirtha: *
+*Tirtha:*
 
 ### Teamwork & Participation:
 
-*Natasha: *
+*Natasha:*
 
-*Tirtha: *
+*Tirtha:*
