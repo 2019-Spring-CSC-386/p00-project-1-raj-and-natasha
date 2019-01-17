@@ -22,6 +22,8 @@ We all love plants, we all need plants, and in fact, studies have shown that hav
   
 **Code:**
 
+We will start with the AnalogReadSerial example code.
+
 Setup:
 - Declare variable for input pin connected to sensor
 - Declare variable for output pin connected to sensor
@@ -48,7 +50,9 @@ Loop:
 
 ## References
 
-- https://www.instructables.com/id/Arduino-Soil-Moisture-Sensor/
+- https://www.instructables.com/id/Arduino-Soil-Moisture-Sensor/ - Instructions for connecting soil moisture sensor to Arduino Uno.
+- https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide/all - Another instruction, this one explains how the values read from the sensor will differ according to the amount of power supplied to it.
+
 
 ## Final Self-Evaluations
 
