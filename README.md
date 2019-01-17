@@ -21,6 +21,7 @@ We all love plants, we all need plants, and in fact, studies have shown that hav
 *Need: interaction of parts/diagram*
   
 **Code:**
+
 Setup:
 - Declare variable for input pin connected to sensor
 - Declare variable for output pin connected to sensor
