@@ -21,10 +21,16 @@ We all love plants, we all need plants, and in fact, studies have shown that hav
 *Need: interaction of parts/diagram*
   
 **Code:**
-- Declaration of variables
-- Loop
+Setup:
+- Declare variable for input pin connected to sensor
+- Declare variable for output pin connected to sensor
+- Declare variable for Red and Green pins
 
-*Need: specifics & screenshot*
+Loop:
+- Take reading from sensor
+- Use if statements to determine if the moisture level is below the desired level
+- If the moisture level is too low, turn on Red LED
+- If the moisture level is above the cutoff, turn on Green LED
 
 ## Files
 
