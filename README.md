@@ -51,6 +51,7 @@ Loop:
    - Use the Soil moisture sensor to measure the moisture of soil (in our case it will be soil port)
    - Then LED light will light up determinding wheather the soil moisture is good or not, if it is good then Green LED will
      light up and if it's not then Red LED will light up.
+   - Depending on LED light, User can water their plant/soil. 
 
 ## Errors and Constraints
 
