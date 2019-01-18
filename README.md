@@ -14,7 +14,7 @@ We all love plants, we all need plants, and in fact, studies have shown that hav
 **Hardware:**
 - LEDs: Red and Green
 - Soil moisture sensor
-- Arduino Uno
+- Arduino metro
 - Breadboard 
 - Wires
   
@@ -47,6 +47,10 @@ Loop:
 ## Summary
 
 ## Instructions
+   - First of all, Make sure all the parts and wires are connected and connect arduino metro to power supplier or to the laptop
+   - Use the Soil moisture sensor to measure the moisture of soil (in our case it will be soil port)
+   - Then LED light will light up determinding wheather the soil moisture is good or not, if it is good then Green LED will
+     light up and if it's not then Red LED will light up.
 
 ## Errors and Constraints
 
