@@ -19,7 +19,9 @@ We all love plants, we all need plants, and in fact, studies have shown that hav
 - Wires
   
 *Need: interaction of parts/diagram*
-  
+
+Here is the location for the project diagram: 
+ file:///home/rajsubedi/Pictures/project12.jpeg
   
   
 **Code:**
