@@ -20,6 +20,8 @@ We all love plants, we all need plants, and in fact, studies have shown that hav
   
 *Need: interaction of parts/diagram*
   
+  
+  
 **Code:**
 
 We will start with the AnalogReadSerial example code.
