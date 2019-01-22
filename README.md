@@ -17,12 +17,11 @@ We all love plants, we all need plants, and in fact, studies have shown that hav
 - Arduino metro
 - Breadboard 
 - Wires
-  
-*Need: interaction of parts/diagram*
+
+![Diagram of Our Project](design_diagram.jpeg "A Diagram of Our Hardware Design Plans.")
 
 Here is the location for the project diagram: 
  file:///home/rajsubedi/Pictures/project12.jpeg
-  
   
 **Code:**
 
@@ -43,6 +42,7 @@ Loop:
 
 - README (you are here): Documentation of our project.
 - LICENSE: Licensing info.
+- design_diagram.jpeg: Diagram of our hardware design plan.
 
 ## Summary
 
