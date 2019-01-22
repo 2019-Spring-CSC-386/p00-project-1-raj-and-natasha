@@ -55,6 +55,9 @@ Loop:
    - Depending on LED light, User can water their plant/soil. 
 
 ## Errors and Constraints
+   - building circuit board when connecting different components.
+   - implementing the code (it gave syntax errors)
+   - finding different moisture level soil to test 
 
 ## Reflection
 
