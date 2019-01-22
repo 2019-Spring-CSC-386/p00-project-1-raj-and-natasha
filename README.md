@@ -43,6 +43,7 @@ Loop:
 - README (you are here): Documentation of our project.
 - LICENSE: Licensing info.
 - design_diagram.jpeg: Diagram of our hardware design plan.
+- Soil_Moisture_Project_1: The Arduino code file for the project.
 
 ## Summary
 
