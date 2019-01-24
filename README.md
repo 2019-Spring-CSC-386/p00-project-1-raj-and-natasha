@@ -27,16 +27,26 @@ Here is the location for the project diagram:
 
 We will start with the AnalogReadSerial example code.
 
+- Initialize all variables, including pin numbers and threshold value.
+
 Setup:
-- Declare variable for input pin connected to sensor
-- Declare variable for output pin connected to sensor
-- Declare variable for Red and Green pins
+- Begin serial moniter
+- Declare pin modes
+- Make sure no power is flowing to sensor
 
 Loop:
-- Take reading from sensor
-- Use if statements to determine if the moisture level is below the desired level
-- If the moisture level is too low, turn on Red LED
-- If the moisture level is above the cutoff, turn on Green LED
+- Take reading from sensor using readsoil function and print value to serial monitor
+- If the moisture is over the threshold value, turn white light on and red light off
+- If the moisture is below the threshold value, turn red light on and white light off
+- Delay -- for testing is set to short value, but in practice can refresh about every 30 mins
+
+Readsoil Function:
+- Send power to sensor
+- Delay a few milliseconds
+- Read value from sensor
+- Turn off power to sensor
+- Return moisture level value
+
 
 ## Files
 
