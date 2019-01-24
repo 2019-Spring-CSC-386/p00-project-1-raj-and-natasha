@@ -54,6 +54,7 @@ Readsoil Function:
 - LICENSE: Licensing info.
 - design_diagram.jpeg: Diagram of our hardware design plan.
 - Soil_Moisture_Project_1: The Arduino code file for the project.
+- Soil_Moisture_Project_1.ino : The main code file
 
 ## Summary
 
