@@ -1,5 +1,10 @@
 # Don't kill your plants!
-
+```diff
+- This is off to a great start. Good job so far outlining the project design, and researching how to implement.
+- Your project isn't particularly hard, so a perfect implementation is expected.
+- You could think about extending it by automatically watering the plants. We have controllable valves in the lab.
+- Raj, your journals were incorrect (you didn't follow the instructions). 
+```
 **Author(s)**: Natasha Stallsmith and Tirtha Subedi
 
 **Google Document**: https://docs.google.com/document/d/16PQsD9lrPFoG10iWvd56AJSm8ZgAgtpKkd_IgjPh894/edit?usp=sharing
