@@ -19,7 +19,7 @@ We all love plants, we all need plants, and in fact, studies have shown that hav
 - Wires
 
 ![Diagram of Our Project](design_diagram.jpeg "A Diagram of Our Hardware Design Plans.")
-
+![Diagram of Our Project](50906911_2329091100711144_2179821461793931264_n.jpg "A Diagram of Our Design")
 Here is the location for the project diagram: 
  file:///home/rajsubedi/Pictures/project12.jpeg
   
