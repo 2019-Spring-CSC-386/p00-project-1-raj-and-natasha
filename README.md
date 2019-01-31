@@ -73,7 +73,8 @@ Readsoil Function:
 ## Reflection
 
 ## References
-
+- Plastic Water solenoid: https://www.adafruit.com/product/997
+  
 - https://www.instructables.com/id/Arduino-Soil-Moisture-Sensor/ - Instructions for connecting soil moisture sensor to Arduino Uno.
 - https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide/all - Another instruction, this one explains how the values read from the sensor will differ according to the amount of power supplied to it.
 
