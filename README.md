@@ -16,12 +16,20 @@ We all love plants, we all need plants, and in fact, studies have shown that hav
 - Soil moisture sensor
 - Arduino metro
 - Breadboard 
-- Wires
+- Jumper Wires
+- Solenoid Valve
+- TIP120 transistor
+- Diode
+- 1K Ohm resistor
 
 ![Diagram of Our Project](design_diagram.jpeg "A Diagram of Our Hardware Design Plans.")
-![Diagram of Our Project](50906911_2329091100711144_2179821461793931264_n.jpg | width=48 "A Diagram of Our Design" | width=48)
+![Diagram of Our Project](50906911_2329091100711144_2179821461793931264_n.jpg "A Diagram of Our Design")
+![Diagram of Our Project](water-valve.jpg "A Diagram of Our Design with water valve")
+
 Here is the location for the project diagram: 
  file:///home/rajsubedi/Pictures/project12.jpeg
+ 
+__Need:__ Updated diagram.
   
 **Code:**
 
@@ -37,7 +45,7 @@ Setup:
 Loop:
 - Take reading from sensor using readsoil function and print value to serial monitor
 - If the moisture is over the threshold value, turn white light on and red light off
-- If the moisture is below the threshold value, turn red light on and white light off
+- If the moisture is below the threshold value, turn red light on and white light off, also open Solenoid valve for a short time
 - Delay -- for testing is set to short value, but in practice can refresh about every 30 mins
 
 Readsoil Function:
@@ -77,6 +85,9 @@ Readsoil Function:
   
 - https://www.instructables.com/id/Arduino-Soil-Moisture-Sensor/ - Instructions for connecting soil moisture sensor to Arduino Uno.
 - https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide/all - Another instruction, this one explains how the values read from the sensor will differ according to the amount of power supplied to it.
+- http://www.martyncurrey.com/controlling-a-solenoid-valve-from-an-arduino/ - Brief instructions for connecting Solenoid valve to Arduino
+- https://www.bc-robotics.com/tutorials/controlling-a-solenoid-valve-with-arduino/ - Another set of instructions for connecting Solenoid valve to Arduino, this one has some coding examples
+
 
 
 ## Final Self-Evaluations
