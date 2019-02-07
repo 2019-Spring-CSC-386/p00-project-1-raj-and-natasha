@@ -80,7 +80,7 @@ At first, we were really confused on what project idea shall we proceed? and whe
 
 We were very excite by achieveing our first goal which was to measure the moisture of the soil and displaying it on LED  whether Red or Green. After that we were thrilled by the idea then we want to advance it by adding water-valve, which open the valve for the water if the soil moisture is dry. We have learned a lot specially when advancing the project. The implementation of the  programing makes us thoroughly learned about the program, and when it came for debugging it was really frustrating and most of the time we didn't what was causing the issues; for example the program that was working before suddenly start giving errors, and something some issues debugged without even doing anything. It was a really good learning experience, beacause it really challenge us to do better and learn more about it. We are proud that we successfully achieved our goal in this project.  
 
-Write 2 - 4 paragraphs on your reactions to the final project. Your reflection should be thoughtful and reflective. It is NOT a report about WHAT you did. Instead, it's a look back at what you learned by doing this project. It should be critical of shortcomings (yours, as well as the instructors/assignments) as well as celebratory of what was achieved.
+
 
 ## References
 - https://www.instructables.com/id/Arduino-Soil-Moisture-Sensor/ - Instructions for connecting soil moisture sensor to Arduino Uno.
@@ -93,24 +93,24 @@ Write 2 - 4 paragraphs on your reactions to the final project. Your reflection s
 
 ### Ideation, Brainstorming, Design:
 
-*Natasha:*
+*Natasha:* 5
 
-*Tirtha:*
+*Tirtha:* 5
 
 ### Code creation: 
 
-*Natasha:*
+*Natasha:* 8
 
-*Tirtha:*
+*Tirtha:* 2
 
 ### Documentation creation:
 
-*Natasha:*
+*Natasha:* 3
 
-*Tirtha:*
+*Tirtha:* 7
 
 ### Teamwork & Participation:
 
-*Natasha:*
+*Natasha:* 5
 
-*Tirtha:*
+*Tirtha:* 5
