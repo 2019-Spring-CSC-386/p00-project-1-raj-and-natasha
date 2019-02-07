@@ -56,19 +56,24 @@ Readsoil Function:
 - Various jpg images to capture the progress of our project.
 
 ## Summary
-Our initial plan for the project was to display level of moisture in a plant's soil by using two different LED color, if the soil is damp then Green LED would light up and if the soil moisture is too dry then Red LED would light up. After successfully completing the initial plan then we decided to advance it by adding an auto-watering feature. We were able to add this feature by connecting a solenoid water-valve and modifying our code. Now, when a user places the soil moisture sensor in the soil, it reads the moisture input, the appropriate LED will light up, and the water-valve will open for one second if the soil is really dry. We spent a lot of time on researching about the different components (parts), design of the project, and implementating the program to do what we wanted it to do. In particular, the most complex part of our project was determining how to get the switch for the water-valve to work. We first tried a transitor, but eventually settled on using a relay. The required circuit for this was very different than what we had done before, so it was both a bit difficult and rewarding to complete and debug. Overall, this project helped us to grow our skills in implementing a program, designing on a breadboard, and researching creatively to get the right result. We also feel that we have much better knowledge now of how to debug a circuit when you don't know whether the code or the hardware is at fault. We have overcome many challenges throughout the corse of this project and in the end it feels really good to be rewarded with achievement and success.   
+Our initial plan for the project was to display level of moisture in a plant's soil by using two different LED color, if the soil is damp then Green LED would light up and if the soil moisture is too dry then Red LED would light up. After successfully completing the initial plan then we decided to advance it by adding an auto-watering feature. We were able to add this feature by connecting a solenoid water-valve and modifying our code. Now, when a user places the soil moisture sensor in the soil, it reads the moisture input, the appropriate LED will light up, and the water-valve will open for one second if the soil is really dry. This will let water flow through the valve and into the pot such that the next time the moisture sensor takes a reading it will find that the soil is damp and the plant will not be watered again until the soil has dried out.
+
+We spent a lot of time on researching about the different components (parts), design of the project, and implementating the program to do what we wanted it to do. In particular, the most complex part of our project was determining how to get the switch for the water-valve to work. We first tried a transitor, but eventually settled on using a relay. The required circuit for this was very different than what we had done before, so it was both a bit difficult and rewarding to complete and debug. Overall, this project helped us to grow our skills in implementing a program, designing on a breadboard, and researching creatively to get the right result. We also feel that we have much better knowledge now of how to debug a circuit when you don't know whether the code or the hardware is at fault. We have overcome many challenges throughout the corse of this project and in the end it feels really good to be rewarded with achievement and success.   
 
 ## Instructions
-   - First of all, Make sure all the parts and wires are connected and connect arduino metro to power supplier or to the laptop
-   - Use the Soil moisture sensor to measure the moisture of soil (in our case it will be soil port)
-   - Then LED light will light up determinding wheather the soil moisture is good or not, if it is good then Green LED will
-     light up and if it's not then Red LED will light up.
-   - Depending on LED light, User can water their plant/soil. 
+   - Ensure all the wires maintain connection and nothing has been broken in transport.
+   - Connect arduino to power supply or laptop.
+   - Connect a 12V power supply to the breadboard.
+   - Place the forked soil moisture sensor in the plant's soil.
+   - Mount the solednoid water-valve above the pot with the arrow pointing down.
+   - Fill the pipe attached to the water-valve as full as possible without letting water spill out.
+   - Go about your day without worrying about the well-being of your plant! (Aside from the possibility of the water-valve and attached large pipe falling and crushing it.)
+   - Now you don't have to remember to water your plant, merely to refill the water in your autowatering system.
 
 ## Errors and Constraints
-   - 
-   -
-   -
+   - The circuitry is rather complex and not easily contained or transported. As is, the system is not convenient for use because of all the exposed wires and relatively short connections between different components.
+   - The pipe holding the water would have to be refilled fairly often because it does not hold much water and does not have a hose attached.
+   - The system is not very power efficient -- a power supply must be connected to the arduino in addition to a 12V power supply connected to the breadboard.
 
 ## Reflection
 At first, we were really confused on what project idea shall we proceed? and when we did the two days journal entries it     gave us many project ideas which are dealing with daily need of the people. Among al those great ideas, we decided to go for "Don't Kill your Plants" idea. The inspiration for this idea comes from the lifestyle that we are living into, therefore We are living in the busy world and we often forget to take care of our plants; so if there is tool which can auto-water the plant when the soild moisture is really bad then it would be very helpful, and it would save plant. We struggle making initial design plan so we did lot of research which give us understanding about the project. First we start by getting all the necessary component,........to be continue..   
@@ -81,8 +86,6 @@ Write 2 - 4 paragraphs on your reactions to the final project. Your reflection s
 - http://www.martyncurrey.com/controlling-a-solenoid-valve-from-an-arduino/ - Brief instructions for connecting Solenoid valve to Arduino
 - https://www.bc-robotics.com/tutorials/controlling-a-solenoid-valve-with-arduino/ - Another set of instructions for connecting Solenoid valve to Arduino, this one has some coding examples
 - https://www.adafruit.com/product/997 - Plastic Water solenoid product description
-
-
 
 ## Final Self-Evaluations
 
