@@ -12,7 +12,7 @@
 int soilMoisture = 0; //value for storing moisture value 
 int soilPin = A0; //soil moisture reading pin
 int soilPower = 8; //Soil moisture Power
-int threshold = 250; //Threshold for when the soil is moist versus dry
+int threshold = 200; //Threshold for when the soil is moist versus dry
 int greenLED = 9; //Pin for output to Green LED
 int redLED = 10; //Pin for output to Red LED
 int solenoidPin = 4;  //Output pin to solenoid
