@@ -49,9 +49,8 @@ else if (soilMoisture >= threshold){ //if the soil moisture is high
   digitalWrite(redLED, LOW); //turn off red LED
 }
 
-//This 1 second timeframe is used so we can test the sensor and see it change in real-time.
-//For in-plant applications, we would take readings much less frequently.
-delay(1000);
+//delay(1000); //Use this one second delay for testing, to see the system work in real-time
+delay(1800000); //Use this half-hour delay for real life, in plant application
 }
 
 //This is the function used to get the soil moisture content
