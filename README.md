@@ -82,6 +82,9 @@ Readsoil Function:
    - Finding different moisture level soil to test 
 
 ## Reflection
+   - It is creative 
+
+Write 2 - 4 paragraphs on your reactions to the final project. Your reflection should be thoughtful and reflective. It is NOT a report about WHAT you did. Instead, it's a look back at what you learned by doing this project. It should be critical of shortcomings (yours, as well as the instructors/assignments) as well as celebratory of what was achieved.
 
 ## References
 - Plastic Water solenoid: https://www.adafruit.com/product/997
