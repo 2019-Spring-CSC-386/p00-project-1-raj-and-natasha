@@ -65,6 +65,9 @@ Readsoil Function:
 - Soil_Moisture_Project_1.ino : The main code file
 
 ## Summary
+ - Our initial plan for the project was to display the moisture of soil by using two different LED color, if its a good soil moisture then Green LED light up and if the soil moisture is really bad then Red LED light up. After successfully completing initial plan then we plan to advance it by adding auto-watering feature. We are able to add this feature by adding water-valve and modifying code to our initial plan. So when user put soil moisture sensor to the soil, it going to get the moisture input to depending on that LED light going to light up and as well the Water-valve will open up if the soil is really dry. We spent lot of time on researching about the different components (parts), design of the project, and implementating the program that does what we wanted to do. Overall, this project taught lot of things such as implenmenting a program, designing on breadboard, and researching creatively to get right result. We have overcome many challenges and at the end it felt really good to reward ourselve with achievement (success).   
+
+
 
 ## Instructions
    - First of all, Make sure all the parts and wires are connected and connect arduino metro to power supplier or to the laptop
